@@ -1,11 +1,11 @@
 ### Hi there, I'm Shubham👋
 
-## I'm a Student, Android and Web Developer, and a Learner!!
+## I'm a Student, MERN stack Web Developer, and a Learner!!
 
 - ⚡ I'm a student at JC BOSE Univserity of Science and Technology
 - 🌱 I’m currently learning React.
-- 👯 Looking to collaborate in some web and Android Projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 Looking to collaborate in some web based Projects.
+- 🥅 2023 Goals: Focus more on web and make some awesome projects.
 - ⚡ Hobbies:- If I am not coding, then I am sleeping.
 
 
@@ -29,7 +29,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
 <br />
 
